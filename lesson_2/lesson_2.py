@@ -11,5 +11,3 @@ total = sum([herbs, cristals, pepper_dust, moonshine, water])
 bonus = total + ((total > 150) * 20)
 
 print("Магическая сила зелья:", bonus)
-
-
